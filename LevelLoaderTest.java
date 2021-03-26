@@ -47,6 +47,6 @@ class LevelLoaderTest {
 class LevelTooBigException extends Exception {
     LevelTooBigException() {
         super("Level too big");
-    }
+    
 }
 }
